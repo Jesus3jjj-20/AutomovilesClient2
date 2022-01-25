@@ -8,7 +8,7 @@ try {
     )
   );
 
-  $client->__setCookie('__test', '38f110652a1a85b357d38e8930ab257c');
+  $client->__setCookie('__test', 'd68af4541e8770807fac6af93f109119');
 
   $auth_params = new stdClass();
   $auth_params->username = "ies";
